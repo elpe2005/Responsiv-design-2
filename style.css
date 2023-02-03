@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: lightblue;
+}
+
+.cirkel{
+    background: yellow;
+    border-radius: 50%;
+    Width: 100vh;
+    height: 100vh;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
